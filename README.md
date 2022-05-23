@@ -1,9 +1,4 @@
-# Hello there!
-My name is Florian and I'm a Web Developer! However from time to time I also love to try out new languages or projects.
-
-![alt](https://i.giphy.com/media/LHZyixOnHwDDy/giphy.webp)
-
-[GIF](https://giphy.com/gifs/computer-working-cat-LHZyixOnHwDDy)
+Hi there!
 
 ## My ✨TOP 3✨ favourite languages
 - 1: Typescript (https://www.typescriptlang.org/) Extends Javascript with a type system
@@ -14,23 +9,15 @@ My name is Florian and I'm a Web Developer! However from time to time I also lov
 - 1: NextJS (https://nextjs.org/) Create amazing, SEO friendly React web apps with ease
 - 2: React (https://reactjs.org/) "A JavaScript library for building user interfaces". Some people say it's sloooooooow. However normally you won't notice any big difference.
 - 3: Firebase (https://firebase.google.com/) An developer friendly, no SQL database and much more. 
-- 4: Gradle (https://gradle.org/) A blazing fast Java Build tool 
-- 5: ACF (https://github.com/aikar/commands) A bit more Minecraft specific, however really well made! It allows you to create Minecraft plugin commands with annotations.
-
-## My own projects
-* overview, including my private ones, coming soooon!*
+- 4: SolidJS (https://github.com/solidjs/solid) Feels like react but *faster*.
+- 5: lui (https://github.com/L3P3/lui) Very tiny web framework in the style of react.
+- 5: Gradle (https://gradle.org/) A fast Java Build tool 
+- 6: ACF (https://github.com/aikar/commands) A bit more Minecraft specific, however really handy! It allows you to create Minecraft plugin commands with annotations.
 
 ## Languages that I can speak
-- Typescript
+- Typescript (-> Javascript obv.)
 - Java
-
-Now look at this really cool "Java"-Cat I found:
-
-<img src="https://i.giphy.com/media/ES4Vcv8zWfIt2/giphy.webp" alt="cat slurping some coffee" width="150" height="150" />
-
-[GIF](https://giphy.com/gifs/ES4Vcv8zWfIt2)
-
-- NodeJS (kinda, StackOverflow carries me a lot, if not all the time)
+- NodeJS
 - English
 - German
 - a little bit of French
@@ -41,4 +28,4 @@ Now look at this really cool "Java"-Cat I found:
 Now enjoy yourself and have nice day! 
 Oh, before I forget:
 
-Here's some coffee for you: [☕](https://cdn.pixabay.com/photo/2020/04/06/13/37/coffee-5009730_960_720.png) (Biscuits are of course included: [🍪🍪🍪🍪🍪](https://orteil.dashnet.org/cookieclicker/))
+Here's some coffee for you: [☕](https://cdn.pixabay.com/photo/2020/04/06/13/37/coffee-5009730_960_720.png) (Biscuits are included: [🍪🍪🍪🍪🍪](https://orteil.dashnet.org/cookieclicker/))
